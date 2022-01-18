@@ -10,6 +10,7 @@ namespace web_t2009e.Controllers
     {
         public ActionResult Index()
         {
+            // This is the code of branch main
             return View();
         }
 
